@@ -21,7 +21,7 @@ int main() {
    // 5. Call the display method of the Rectangle Object
    // 6. Call the display method of the Circle Object
    // 7. Delete the Rectangle Object from memory
-   // 8. Delete the Circle Object from memory
+   // 8. Delete the Circle Object from memory 
 
   Rectangle *rec;
   rec = new Rectangle(length,width);
