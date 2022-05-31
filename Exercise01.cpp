@@ -11,7 +11,7 @@ int main() {
     myItem2.setDiscount(20);
     myItem2.display();
     
-    return 0;
+    return 0; 
 }
 
 // DO NOT CHANGE ABOVE CODE
